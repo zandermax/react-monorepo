@@ -1,0 +1,19 @@
+.main {
+	max-height: 100vh;
+}
+
+.main-row {
+	/* Because the height is used to display an empty state, set it specifically */
+	height: 95vh;
+
+	&>* {
+		width: 100%;
+	}
+}
+
+.main-column {
+	display: flex;
+	flex-direction: column;
+	overflow-y: auto;
+	height: 100%;
+}

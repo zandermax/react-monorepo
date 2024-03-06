@@ -1,0 +1,1962 @@
+[
+	{
+		"capital": "Kabul",
+		"currency": "Afghan afghani",
+		"density": 59.6,
+		"flag": "https://fakeimg.pl/500x300/ff6600",
+		"id": 1,
+		"land_area": 652230,
+		"name": "Afghanistan",
+		"population": 38928346
+	},
+	{
+		"capital": "Tirana",
+		"currency": "Albanian lek",
+		"density": 100.1,
+		"flag": "https://fakeimg.pl/500x300/ff9900",
+		"id": 2,
+		"land_area": 28748,
+		"name": "Albania",
+		"population": 2877797
+	},
+	{
+		"capital": "Algiers",
+		"currency": "Algerian dinar",
+		"density": 18.4,
+		"flag": "https://fakeimg.pl/500x300/ffcc00",
+		"id": 3,
+		"land_area": 2381741,
+		"name": "Algeria",
+		"population": 43851043
+	},
+	{
+		"capital": "Andorra la Vella",
+		"currency": "Euro",
+		"density": 164.8,
+		"flag": "https://fakeimg.pl/500x300/ffff00",
+		"id": 4,
+		"land_area": 468,
+		"name": "Andorra",
+		"population": 77265
+	},
+	{
+		"capital": "Luanda",
+		"currency": "Angolan kwanza",
+		"density": 26.4,
+		"flag": "https://fakeimg.pl/500x300/00ff00",
+		"id": 5,
+		"land_area": 1246700,
+		"name": "Angola",
+		"population": 32866272
+	},
+	{
+		"capital": "Saint John's",
+		"currency": "East Caribbean dollar",
+		"density": 220.8,
+		"flag": "https://fakeimg.pl/500x300/00ff66",
+		"id": 6,
+		"land_area": 443,
+		"name": "Antigua and Barbuda",
+		"population": 97928
+	},
+	{
+		"capital": "Buenos Aires",
+		"currency": "Argentine peso",
+		"density": 16.3,
+		"flag": "https://fakeimg.pl/500x300/6600cc",
+		"id": 7,
+		"land_area": 2780400,
+		"name": "Argentina",
+		"population": 45195777
+	},
+	{
+		"capital": "Yerevan",
+		"currency": "Armenian dram",
+		"density": 99.6,
+		"flag": "https://fakeimg.pl/500x300/9900cc",
+		"id": 8,
+		"land_area": 29743,
+		"name": "Armenia",
+		"population": 2963234
+	},
+	{
+		"capital": "Canberra",
+		"currency": "Australian dollar",
+		"density": 3.4,
+		"flag": "https://fakeimg.pl/500x300/cc00cc",
+		"id": 9,
+		"land_area": 7692024,
+		"name": "Australia",
+		"population": 25788204
+	},
+	{
+		"capital": "Vienna",
+		"currency": "Euro",
+		"density": 107.3,
+		"flag": "https://fakeimg.pl/500x300/ff00cc",
+		"id": 10,
+		"land_area": 83871,
+		"name": "Austria",
+		"population": 8994944
+	},
+	{
+		"capital": "Baku",
+		"currency": "Azerbaijani manat",
+		"density": 117.1,
+		"flag": "https://fakeimg.pl/500x300/00ccff",
+		"id": 11,
+		"land_area": 86600,
+		"name": "Azerbaijan",
+		"population": 10139175
+	},
+	{
+		"capital": "Nassau",
+		"currency": "Bahamian dollar",
+		"density": 28.6,
+		"flag": "https://fakeimg.pl/500x300/00ffcc",
+		"id": 12,
+		"land_area": 13880,
+		"name": "Bahamas",
+		"population": 396913
+	},
+	{
+		"capital": "Manama",
+		"currency": "Bahraini dinar",
+		"density": 2228.6,
+		"flag": "https://fakeimg.pl/500x300/ffcc00",
+		"id": 13,
+		"land_area": 765,
+		"name": "Bahrain",
+		"population": 1701575
+	},
+	{
+		"capital": "Dhaka",
+		"currency": "Bangladeshi taka",
+		"density": 1119.1,
+		"flag": "https://fakeimg.pl/500x300/660066",
+		"id": 14,
+		"land_area": 148460,
+		"name": "Bangladesh",
+		"population": 166303498
+	},
+	{
+		"capital": "Bridgetown",
+		"currency": "Barbadian dollar",
+		"density": 668.7,
+		"flag": "https://fakeimg.pl/500x300/660099",
+		"id": 15,
+		"land_area": 430,
+		"name": "Barbados",
+		"population": 287025
+	},
+	{
+		"capital": "Minsk",
+		"currency": "Belarusian ruble",
+		"density": 45.5,
+		"flag": "https://fakeimg.pl/500x300/990066",
+		"id": 16,
+		"land_area": 207600,
+		"name": "Belarus",
+		"population": 9449321
+	},
+	{
+		"capital": "Brussels",
+		"currency": "Euro",
+		"density": 381.5,
+		"flag": "https://fakeimg.pl/500x300/990099",
+		"id": 17,
+		"land_area": 30528,
+		"name": "Belgium",
+		"population": 11632342
+	},
+	{
+		"capital": "Belmopan",
+		"currency": "Belize dollar",
+		"density": 17.5,
+		"flag": "https://fakeimg.pl/500x300/9900cc",
+		"id": 18,
+		"land_area": 22806,
+		"name": "Belize",
+		"population": 398050
+	},
+	{
+		"capital": "Porto-Novo",
+		"currency": "West African CFA franc",
+		"density": 109.4,
+		"flag": "https://fakeimg.pl/500x300/9900ff",
+		"id": 19,
+		"land_area": 112622,
+		"name": "Benin",
+		"population": 12315251
+	},
+	{
+		"capital": "Thimphu",
+		"currency": "Bhutanese ngultrum",
+		"density": 19.9,
+		"flag": "https://fakeimg.pl/500x300/cc0066",
+		"id": 20,
+		"land_area": 38394,
+		"name": "Bhutan",
+		"population": 763092
+	},
+	{
+		"capital": "Sucre",
+		"currency": "Bolivian boliviano",
+		"density": 10.8,
+		"flag": "https://fakeimg.pl/500x300/cc0099",
+		"id": 21,
+		"land_area": 1083301,
+		"name": "Bolivia",
+		"population": 11673021
+	},
+	{
+		"capital": "Sarajevo",
+		"currency": "Bosnia and Herzegovina convertible mark",
+		"density": 64.1,
+		"flag": "https://fakeimg.pl/500x300/cc00cc",
+		"id": 22,
+		"land_area": 51197,
+		"name": "Bosnia and Herzegovina",
+		"population": 3280815
+	},
+	{
+		"capital": "Gaborone",
+		"currency": "Botswana pula",
+		"density": 4,
+		"flag": "https://fakeimg.pl/500x300/cc00ff",
+		"id": 23,
+		"land_area": 581730,
+		"name": "Botswana",
+		"population": 2351625
+	},
+	{
+		"capital": "Brasília",
+		"currency": "Brazilian real",
+		"density": 25.1,
+		"flag": "https://fakeimg.pl/500x300/cc3300",
+		"id": 24,
+		"land_area": 8515767,
+		"name": "Brazil",
+		"population": 213993437
+	},
+	{
+		"capital": "Bandar Seri Begawan",
+		"currency": "Brunei dollar",
+		"density": 79.8,
+		"flag": "https://fakeimg.pl/500x300/cc3333",
+		"id": 25,
+		"land_area": 5765,
+		"name": "Brunei",
+		"population": 459500
+	},
+	{
+		"capital": "Sofia",
+		"currency": "Bulgarian lev",
+		"density": 62.6,
+		"flag": "https://fakeimg.pl/500x300/cc3366",
+		"id": 26,
+		"land_area": 110879,
+		"name": "Bulgaria",
+		"population": 6951482
+	},
+	{
+		"capital": "Ouagadougou",
+		"currency": "West African CFA franc",
+		"density": 78.7,
+		"flag": "https://fakeimg.pl/500x300/cc3399",
+		"id": 27,
+		"land_area": 273602,
+		"name": "Burkina Faso",
+		"population": 21510181
+	},
+	{
+		"capital": "Gitega",
+		"currency": "Burundian franc",
+		"density": 425.5,
+		"flag": "https://fakeimg.pl/500x300/cc33cc",
+		"id": 28,
+		"land_area": 27816,
+		"name": "Burundi",
+		"population": 11890784
+	},
+	{
+		"capital": "Yamoussoukro",
+		"currency": "West African CFA franc",
+		"density": 81.8,
+		"flag": "https://fakeimg.pl/500x300/cc33ff",
+		"id": 29,
+		"land_area": 322463,
+		"name": "Côte d'Ivoire",
+		"population": 26378274
+	},
+	{
+		"capital": "Praia",
+		"currency": "Cape Verdean escudo",
+		"density": 138.1,
+		"flag": "https://fakeimg.pl/500x300/cc6600",
+		"id": 30,
+		"land_area": 4033,
+		"name": "Cabo Verde",
+		"population": 556982
+	},
+	{
+		"capital": "Phnom Penh",
+		"currency": "Cambodian riel",
+		"density": 92.5,
+		"flag": "https://fakeimg.pl/500x300/cc6633",
+		"id": 31,
+		"land_area": 181035,
+		"name": "Cambodia",
+		"population": 16718965
+	},
+	{
+		"capital": "Yaoundé",
+		"currency": "Central African CFA franc",
+		"density": 56.1,
+		"flag": "https://fakeimg.pl/500x300/cc6666",
+		"id": 32,
+		"land_area": 472710,
+		"name": "Cameroon",
+		"population": 26545864
+	},
+	{
+		"capital": "Ottawa",
+		"currency": "Canadian dollar",
+		"density": 3.8,
+		"flag": "https://fakeimg.pl/500x300/cc6699",
+		"id": 33,
+		"land_area": 9984670,
+		"name": "Canada",
+		"population": 37742154
+	},
+	{
+		"capital": "Bangui",
+		"currency": "Central African CFA franc",
+		"density": 7.8,
+		"flag": "https://fakeimg.pl/500x300/cc66cc",
+		"id": 34,
+		"land_area": 622984,
+		"name": "Central African Republic",
+		"population": 4829764
+	},
+	{
+		"capital": "N'Djamena",
+		"currency": "Central African CFA franc",
+		"density": 13.1,
+		"flag": "https://fakeimg.pl/500x300/cc66ff",
+		"id": 35,
+		"land_area": 1284000,
+		"name": "Chad",
+		"population": 16744534
+	},
+	{
+		"capital": "Santiago",
+		"currency": "Chilean peso",
+		"density": 26.2,
+		"flag": "https://fakeimg.pl/500x300/cc9900",
+		"id": 36,
+		"land_area": 743812,
+		"name": "Chile",
+		"population": 19458310
+	},
+	{
+		"capital": "Beijing",
+		"currency": "Chinese yuan",
+		"density": 150.5,
+		"flag": "https://fakeimg.pl/500x300/cc9933",
+		"id": 37,
+		"land_area": 9596961,
+		"name": "China",
+		"population": 1444216107
+	},
+	{
+		"capital": "Bogotá",
+		"currency": "Colombian peso",
+		"density": 44.7,
+		"flag": "https://fakeimg.pl/500x300/cc9966",
+		"id": 38,
+		"land_area": 1138910,
+		"name": "Colombia",
+		"population": 50882891
+	},
+	{
+		"capital": "Moroni",
+		"currency": "Comorian franc",
+		"density": 468.7,
+		"flag": "https://fakeimg.pl/500x300/cc9999",
+		"id": 39,
+		"land_area": 1862,
+		"name": "Comoros",
+		"population": 873724
+	},
+	{
+		"capital": "Brazzaville",
+		"currency": "Central African CFA franc",
+		"density": 15.8,
+		"flag": "https://fakeimg.pl/500x300/cccc00",
+		"id": 40,
+		"land_area": 342000,
+		"name": "Congo (Congo-Brazzaville)",
+		"population": 5399895
+	},
+	{
+		"capital": "San José",
+		"currency": "Costa Rican colón",
+		"density": 100.7,
+		"flag": "https://fakeimg.pl/500x300/cccc33",
+		"id": 41,
+		"land_area": 51100,
+		"name": "Costa Rica",
+		"population": 5139271
+	},
+	{
+		"capital": "Zagreb",
+		"currency": "Croatian kuna",
+		"density": 72.5,
+		"flag": "https://fakeimg.pl/500x300/cccc66",
+		"id": 42,
+		"land_area": 56594,
+		"name": "Croatia",
+		"population": 4105267
+	},
+	{
+		"capital": "Havana",
+		"currency": "Cuban peso",
+		"density": 103,
+		"flag": "https://fakeimg.pl/500x300/cccc99",
+		"id": 43,
+		"land_area": 109884,
+		"name": "Cuba",
+		"population": 11326616
+	},
+	{
+		"capital": "Nicosia",
+		"currency": "Euro",
+		"density": 131.8,
+		"flag": "https://fakeimg.pl/500x300/cccccc",
+		"id": 44,
+		"land_area": 9251,
+		"name": "Cyprus",
+		"population": 1221549
+	},
+	{
+		"capital": "Prague",
+		"currency": "Czech koruna",
+		"density": 135.6,
+		"flag": "https://fakeimg.pl/500x300/ff0000",
+		"id": 45,
+		"land_area": 78866,
+		"name": "Czechia (Czech Republic)",
+		"population": 10689209
+	},
+	{
+		"capital": "Kinshasa",
+		"currency": "Congolese franc",
+		"density": 38.2,
+		"flag": "https://fakeimg.pl/500x300/ff3300",
+		"id": 46,
+		"land_area": 2344858,
+		"name": "Democratic Republic of the Congo",
+		"population": 89561404
+	},
+	{
+		"capital": "Copenhagen",
+		"currency": "Danish krone",
+		"density": 136.6,
+		"flag": "https://fakeimg.pl/500x300/ff6600",
+		"id": 47,
+		"land_area": 42430,
+		"name": "Denmark",
+		"population": 5795780
+	},
+	{
+		"capital": "Djibouti",
+		"currency": "Djiboutian franc",
+		"density": 42.9,
+		"flag": "https://fakeimg.pl/500x300/ff9900",
+		"id": 48,
+		"land_area": 23000,
+		"name": "Djibouti",
+		"population": 988000
+	},
+	{
+		"capital": "Roseau",
+		"currency": "East Caribbean dollar",
+		"density": 95.9,
+		"flag": "https://fakeimg.pl/500x300/ffcc00",
+		"id": 49,
+		"land_area": 751,
+		"name": "Dominica",
+		"population": 71986
+	},
+	{
+		"capital": "Santo Domingo",
+		"currency": "Dominican peso",
+		"density": 222.9,
+		"flag": "https://fakeimg.pl/500x300/ffff00",
+		"id": 50,
+		"land_area": 48671,
+		"name": "Dominican Republic",
+		"population": 10847904
+	},
+	{
+		"capital": "Quito",
+		"currency": "United States dollar",
+		"density": 62,
+		"flag": "https://fakeimg.pl/500x300/00cc00",
+		"id": 51,
+		"land_area": 283561,
+		"name": "Ecuador",
+		"population": 17587741
+	},
+	{
+		"capital": "Cairo",
+		"currency": "Egyptian pound",
+		"density": 104,
+		"flag": "https://fakeimg.pl/500x300/00cc33",
+		"id": 52,
+		"land_area": 1002450,
+		"name": "Egypt",
+		"population": 104258327
+	},
+	{
+		"capital": "San Salvador",
+		"currency": "United States dollar",
+		"density": 307.8,
+		"flag": "https://fakeimg.pl/500x300/00cc66",
+		"id": 53,
+		"land_area": 21041,
+		"name": "El Salvador",
+		"population": 6486205
+	},
+	{
+		"capital": "Malabo",
+		"currency": "Central African CFA franc",
+		"density": 48.4,
+		"flag": "https://fakeimg.pl/500x300/00cc99",
+		"id": 54,
+		"land_area": 28051,
+		"name": "Equatorial Guinea",
+		"population": 1355986
+	},
+	{
+		"capital": "Asmara",
+		"currency": "Eritrean nakfa",
+		"density": 29.7,
+		"flag": "https://fakeimg.pl/500x300/00cccc",
+		"id": 55,
+		"land_area": 117600,
+		"name": "Eritrea",
+		"population": 3497117
+	},
+	{
+		"capital": "Tallinn",
+		"currency": "Euro",
+		"density": 29.4,
+		"flag": "https://fakeimg.pl/500x300/00ccff",
+		"id": 56,
+		"land_area": 45339,
+		"name": "Estonia",
+		"population": 1331057
+	},
+	{
+		"capital": "Mbabane",
+		"currency": "Swazi lilangeni",
+		"density": 66.9,
+		"flag": "https://fakeimg.pl/500x300/330000",
+		"id": 57,
+		"land_area": 17364,
+		"name": "Eswatini (fmr. \"Swaziland\")",
+		"population": 1159250
+	},
+	{
+		"capital": "Addis Ababa",
+		"currency": "Ethiopian birr",
+		"density": 106.9,
+		"flag": "https://fakeimg.pl/500x300/330033",
+		"id": 58,
+		"land_area": 1104300,
+		"name": "Ethiopia",
+		"population": 118016000
+	},
+	{
+		"capital": "Suva",
+		"currency": "Fijian dollar",
+		"density": 48.9,
+		"flag": "https://fakeimg.pl/500x300/330066",
+		"id": 59,
+		"land_area": 18333,
+		"name": "Fiji",
+		"population": 896758
+	},
+	{
+		"capital": "Helsinki",
+		"currency": "Euro",
+		"density": 18.2,
+		"flag": "https://fakeimg.pl/500x300/330099",
+		"id": 60,
+		"land_area": 303815,
+		"name": "Finland",
+		"population": 5540720
+	},
+	{
+		"capital": "Paris",
+		"currency": "Euro",
+		"density": 121.5,
+		"flag": "https://fakeimg.pl/500x300/3300cc",
+		"id": 61,
+		"land_area": 551695,
+		"name": "France",
+		"population": 67060000
+	},
+	{
+		"capital": "Libreville",
+		"currency": "Central African CFA franc",
+		"density": 7.7,
+		"flag": "https://fakeimg.pl/500x300/3300ff",
+		"id": 62,
+		"land_area": 267667,
+		"name": "Gabon",
+		"population": 2067561
+	},
+	{
+		"capital": "Banjul",
+		"currency": "Gambian dalasi",
+		"density": 219.6,
+		"flag": "https://fakeimg.pl/500x300/660000",
+		"id": 63,
+		"land_area": 10689,
+		"name": "Gambia",
+		"population": 2347706
+	},
+	{
+		"capital": "Tbilisi",
+		"currency": "Georgian lari",
+		"density": 53.5,
+		"flag": "https://fakeimg.pl/500x300/660033",
+		"id": 65,
+		"land_area": 69700,
+		"name": "Georgia",
+		"population": 3729500
+	},
+	{
+		"capital": "Berlin",
+		"currency": "Euro",
+		"density": 232.9,
+		"flag": "https://fakeimg.pl/500x300/660066",
+		"id": 66,
+		"land_area": 357022,
+		"name": "Germany",
+		"population": 83190556
+	},
+	{
+		"capital": "Accra",
+		"currency": "Ghanaian cedi",
+		"density": 127,
+		"flag": "https://fakeimg.pl/500x300/660099",
+		"id": 67,
+		"land_area": 238533,
+		"name": "Ghana",
+		"population": 30280811
+	},
+	{
+		"capital": "Athens",
+		"currency": "Euro",
+		"density": 81.2,
+		"flag": "https://fakeimg.pl/500x300/6600cc",
+		"id": 68,
+		"land_area": 131957,
+		"name": "Greece",
+		"population": 10718565
+	},
+	{
+		"capital": "St. George's",
+		"currency": "Eastern Caribbean dollar",
+		"density": 325.8,
+		"flag": "https://fakeimg.pl/500x300/6600ff",
+		"id": 69,
+		"land_area": 344,
+		"name": "Grenada",
+		"population": 112003
+	},
+	{
+		"capital": "Guatemala City",
+		"currency": "Guatemalan quetzal",
+		"density": 164.6,
+		"flag": "https://fakeimg.pl/500x300/990000",
+		"id": 70,
+		"land_area": 108889,
+		"name": "Guatemala",
+		"population": 17915568
+	},
+	{
+		"capital": "Conakry",
+		"currency": "Guinean franc",
+		"density": 53.4,
+		"flag": "https://fakeimg.pl/500x300/990033",
+		"id": 71,
+		"land_area": 245857,
+		"name": "Guinea",
+		"population": 13132792
+	},
+	{
+		"capital": "Bissau",
+		"currency": "West African CFA franc",
+		"density": 54.5,
+		"flag": "https://fakeimg.pl/500x300/990066",
+		"id": 72,
+		"land_area": 36125,
+		"name": "Guinea-Bissau",
+		"population": 1967998
+	},
+	{
+		"capital": "Georgetown",
+		"currency": "Guyanese dollar",
+		"density": 3.6,
+		"flag": "https://fakeimg.pl/500x300/990099",
+		"id": 73,
+		"land_area": 214969,
+		"name": "Guyana",
+		"population": 787000
+	},
+	{
+		"capital": "Port-au-Prince",
+		"currency": "Haitian gourde",
+		"density": 416.3,
+		"flag": "https://fakeimg.pl/500x300/9900cc",
+		"id": 74,
+		"land_area": 27065,
+		"name": "Haiti",
+		"population": 11263077
+	},
+	{
+		"capital": "Vatican City",
+		"currency": "Euro",
+		"density": 2273,
+		"flag": "https://fakeimg.pl/500x300/993300",
+		"id": 75,
+		"land_area": 0.44,
+		"name": "Holy See",
+		"population": 1000
+	},
+	{
+		"capital": "Tegucigalpa",
+		"currency": "Honduran lempira",
+		"density": 89.2,
+		"flag": "https://fakeimg.pl/500x300/993333",
+		"id": 76,
+		"land_area": 112492,
+		"name": "Honduras",
+		"population": 10032229
+	},
+	{
+		"capital": "Budapest",
+		"currency": "Hungarian forint",
+		"density": 105,
+		"flag": "https://fakeimg.pl/500x300/993366",
+		"id": 77,
+		"land_area": 93028,
+		"name": "Hungary",
+		"population": 9789526
+	},
+	{
+		"capital": "Reykjavik",
+		"currency": "Icelandic króna",
+		"density": 3.6,
+		"flag": "https://fakeimg.pl/500x300/993399",
+		"id": 78,
+		"land_area": 103000,
+		"name": "Iceland",
+		"population": 366425
+	},
+	{
+		"capital": "New Delhi",
+		"currency": "Indian rupee",
+		"density": 419.9,
+		"flag": "https://fakeimg.pl/500x300/9933cc",
+		"id": 79,
+		"land_area": 3287263,
+		"name": "India",
+		"population": 1380004385
+	},
+	{
+		"capital": "Jakarta",
+		"currency": "Indonesian rupiah",
+		"density": 143.6,
+		"flag": "https://fakeimg.pl/500x300/9933ff",
+		"id": 80,
+		"land_area": 1904569,
+		"name": "Indonesia",
+		"population": 273523615
+	},
+	{
+		"capital": "Tehran",
+		"currency": "Iranian rial",
+		"density": 50.9,
+		"flag": "https://fakeimg.pl/500x300/996600",
+		"id": 81,
+		"land_area": 1648195,
+		"name": "Iran",
+		"population": 83992949
+	},
+	{
+		"capital": "Baghdad",
+		"currency": "Iraqi dinar",
+		"density": 91.8,
+		"flag": "https://fakeimg.pl/500x300/996633",
+		"id": 82,
+		"land_area": 438317,
+		"name": "Iraq",
+		"population": 40222493
+	},
+	{
+		"capital": "Dublin",
+		"currency": "Euro",
+		"density": 70.2,
+		"flag": "https://fakeimg.pl/500x300/996666",
+		"id": 83,
+		"land_area": 70273,
+		"name": "Ireland",
+		"population": 4937786
+	},
+	{
+		"capital": "Jerusalem",
+		"currency": "Israeli new shekel",
+		"density": 391.9,
+		"flag": "https://fakeimg.pl/500x300/996699",
+		"id": 84,
+		"land_area": 22072,
+		"name": "Israel",
+		"population": 8655541
+	},
+	{
+		"capital": "Rome",
+		"currency": "Euro",
+		"density": 200.3,
+		"flag": "https://fakeimg.pl/500x300/9966cc",
+		"id": 85,
+		"land_area": 302073,
+		"name": "Italy",
+		"population": 60461826
+	},
+	{
+		"capital": "Kingston",
+		"currency": "Jamaican dollar",
+		"density": 269.2,
+		"flag": "https://fakeimg.pl/500x300/9966ff",
+		"id": 86,
+		"land_area": 10991,
+		"name": "Jamaica",
+		"population": 2961161
+	},
+	{
+		"capital": "Tokyo",
+		"currency": "Japanese yen",
+		"density": 334.9,
+		"flag": "https://fakeimg.pl/500x300/999900",
+		"id": 87,
+		"land_area": 377975,
+		"name": "Japan",
+		"population": 126476461
+	},
+	{
+		"capital": "Amman",
+		"currency": "Jordanian dinar",
+		"density": 113.8,
+		"flag": "https://fakeimg.pl/500x300/999933",
+		"id": 88,
+		"land_area": 89342,
+		"name": "Jordan",
+		"population": 10203140
+	},
+	{
+		"capital": "Nur-Sultan",
+		"currency": "Kazakhstani tenge",
+		"density": 6.9,
+		"flag": "https://fakeimg.pl/500x300/999966",
+		"id": 89,
+		"land_area": 2724900,
+		"name": "Kazakhstan",
+		"population": 18776707
+	},
+	{
+		"capital": "Nairobi",
+		"currency": "Kenyan shilling",
+		"density": 92.6,
+		"flag": "https://fakeimg.pl/500x300/999999",
+		"id": 90,
+		"land_area": 580367,
+		"name": "Kenya",
+		"population": 53771296
+	},
+	{
+		"capital": "Tarawa",
+		"currency": "Australian dollar",
+		"density": 147.3,
+		"flag": "https://fakeimg.pl/500x300/99cc00",
+		"id": 91,
+		"land_area": 811,
+		"name": "Kiribati",
+		"population": 119449
+	},
+	{
+		"capital": "Kuwait City",
+		"currency": "Kuwaiti dinar",
+		"density": 239.9,
+		"flag": "https://fakeimg.pl/500x300/99cc33",
+		"id": 92,
+		"land_area": 17818,
+		"name": "Kuwait",
+		"population": 4270571
+	},
+	{
+		"capital": "Bishkek",
+		"currency": "Kyrgyzstani som",
+		"density": 32.6,
+		"flag": "https://fakeimg.pl/500x300/99cc66",
+		"id": 93,
+		"land_area": 199951,
+		"name": "Kyrgyzstan",
+		"population": 6524195
+	},
+	{
+		"capital": "Vientiane",
+		"currency": "Lao kip",
+		"density": 30.7,
+		"flag": "https://fakeimg.pl/500x300/99cc99",
+		"id": 94,
+		"land_area": 236800,
+		"name": "Laos",
+		"population": 7275556
+	},
+	{
+		"capital": "Riga",
+		"currency": "Euro",
+		"density": 29.2,
+		"flag": "https://fakeimg.pl/500x300/99cccc",
+		"id": 95,
+		"land_area": 64562,
+		"name": "Latvia",
+		"population": 1886202
+	},
+	{
+		"capital": "Beirut",
+		"currency": "Lebanese pound",
+		"density": 653.1,
+		"flag": "https://fakeimg.pl/500x300/99ccff",
+		"id": 96,
+		"land_area": 10452,
+		"name": "Lebanon",
+		"population": 6825442
+	},
+	{
+		"capital": "Maseru",
+		"currency": "Loti",
+		"density": 70.6,
+		"flag": "https://fakeimg.pl/500x300/99ff00",
+		"id": 97,
+		"land_area": 30355,
+		"name": "Lesotho",
+		"population": 2142249
+	},
+	{
+		"capital": "Monrovia",
+		"currency": "Liberian dollar",
+		"density": 52.5,
+		"flag": "https://fakeimg.pl/500x300/99ff33",
+		"id": 98,
+		"land_area": 96320,
+		"name": "Liberia",
+		"population": 5057681
+	},
+	{
+		"capital": "Tripoli",
+		"currency": "Libyan dinar",
+		"density": 3.9,
+		"flag": "https://fakeimg.pl/500x300/99ff66",
+		"id": 99,
+		"land_area": 1759540,
+		"name": "Libya",
+		"population": 6871287
+	},
+	{
+		"capital": "Vaduz",
+		"currency": "Swiss franc",
+		"density": 238.3,
+		"flag": "https://fakeimg.pl/500x300/99ff99",
+		"id": 100,
+		"land_area": 160,
+		"name": "Liechtenstein",
+		"population": 38128
+	},
+	{
+		"capital": "Vilnius",
+		"currency": "Euro",
+		"density": 41.7,
+		"flag": "https://fakeimg.pl/500x300/99ffcc",
+		"id": 101,
+		"land_area": 65300,
+		"name": "Lithuania",
+		"population": 2722289
+	},
+	{
+		"capital": "Luxembourg City",
+		"currency": "Euro",
+		"density": 241.9,
+		"flag": "https://fakeimg.pl/500x300/aa0000",
+		"id": 102,
+		"land_area": 2586,
+		"name": "Luxembourg",
+		"population": 625978
+	},
+	{
+		"capital": "Antananarivo",
+		"currency": "Malagasy ariary",
+		"density": 47.1,
+		"flag": "https://fakeimg.pl/500x300/aa0033",
+		"id": 103,
+		"land_area": 587041,
+		"name": "Madagascar",
+		"population": 27691018
+	},
+	{
+		"capital": "Lilongwe",
+		"currency": "Malawian kwacha",
+		"density": 161.4,
+		"flag": "https://fakeimg.pl/500x300/aa0066",
+		"id": 104,
+		"land_area": 118484,
+		"name": "Malawi",
+		"population": 19129952
+	},
+	{
+		"capital": "Kuala Lumpur",
+		"currency": "Malaysian ringgit",
+		"density": 98,
+		"flag": "https://fakeimg.pl/500x300/aa0099",
+		"id": 105,
+		"land_area": 330803,
+		"name": "Malaysia",
+		"population": 32365999
+	},
+	{
+		"capital": "Malé",
+		"currency": "Maldivian rufiyaa",
+		"density": 1751,
+		"flag": "https://fakeimg.pl/500x300/aa00cc",
+		"id": 106,
+		"land_area": 298,
+		"name": "Maldives",
+		"population": 521874
+	},
+	{
+		"capital": "Bamako",
+		"currency": "West African CFA franc",
+		"density": 16.3,
+		"flag": "https://fakeimg.pl/500x300/aa00ff",
+		"id": 107,
+		"land_area": 1240192,
+		"name": "Mali",
+		"population": 20250833
+	},
+	{
+		"capital": "Valletta",
+		"currency": "Euro",
+		"density": 1626,
+		"flag": "https://fakeimg.pl/500x300/cc0000",
+		"id": 108,
+		"land_area": 316,
+		"name": "Malta",
+		"population": 514564
+	},
+	{
+		"capital": "Majuro",
+		"currency": "United States dollar",
+		"density": 326,
+		"flag": "https://fakeimg.pl/500x300/cc0033",
+		"id": 109,
+		"land_area": 181,
+		"name": "Marshall Islands",
+		"population": 59194
+	},
+	{
+		"capital": "Nouakchott",
+		"currency": "Mauritanian ouguiya",
+		"density": 4.5,
+		"flag": "https://fakeimg.pl/500x300/cc0066",
+		"id": 110,
+		"land_area": 1030700,
+		"name": "Mauritania",
+		"population": 4649658
+	},
+	{
+		"capital": "Port Louis",
+		"currency": "Mauritian rupee",
+		"density": 622.7,
+		"flag": "https://fakeimg.pl/500x300/cc0099",
+		"id": 111,
+		"land_area": 2040,
+		"name": "Mauritius",
+		"population": 1268315
+	},
+	{
+		"capital": "Mexico City",
+		"currency": "Mexican peso",
+		"density": 65.7,
+		"flag": "https://fakeimg.pl/500x300/cc00cc",
+		"id": 112,
+		"land_area": 1964375,
+		"name": "Mexico",
+		"population": 129163276
+	},
+	{
+		"capital": "Palikir",
+		"currency": "United States dollar",
+		"density": 161.9,
+		"flag": "https://fakeimg.pl/500x300/cc00ff",
+		"id": 113,
+		"land_area": 702,
+		"name": "Micronesia",
+		"population": 113815
+	},
+	{
+		"capital": "Chisinau",
+		"currency": "Moldovan leu",
+		"density": 78.6,
+		"flag": "https://fakeimg.pl/500x300/cc3300",
+		"id": 114,
+		"land_area": 33846,
+		"name": "Moldova",
+		"population": 2657637
+	},
+	{
+		"capital": "Monaco",
+		"currency": "Euro",
+		"density": 19347.5,
+		"flag": "https://fakeimg.pl/500x300/cc3333",
+		"id": 115,
+		"land_area": 2,
+		"name": "Monaco",
+		"population": 38695
+	},
+	{
+		"capital": "Ulaanbaatar",
+		"currency": "Mongolian tugrik",
+		"density": 2,
+		"flag": "https://fakeimg.pl/500x300/cc3366",
+		"id": 116,
+		"land_area": 1564110,
+		"name": "Mongolia",
+		"population": 3075647
+	},
+	{
+		"capital": "Podgorica",
+		"currency": "Euro",
+		"density": 44.5,
+		"flag": "https://fakeimg.pl/500x300/cc3399",
+		"id": 117,
+		"land_area": 13812,
+		"name": "Montenegro",
+		"population": 614261
+	},
+	{
+		"capital": "Rabat",
+		"currency": "Moroccan dirham",
+		"density": 81,
+		"flag": "https://fakeimg.pl/500x300/cc33cc",
+		"id": 118,
+		"land_area": 446550,
+		"name": "Morocco",
+		"population": 36191805
+	},
+	{
+		"capital": "Maputo",
+		"currency": "Mozambican metical",
+		"density": 38.2,
+		"flag": "https://fakeimg.pl/500x300/cc33ff",
+		"id": 119,
+		"land_area": 799380,
+		"name": "Mozambique",
+		"population": 30528673
+	},
+	{
+		"capital": "Naypyidaw",
+		"currency": "Burmese kyat",
+		"density": 80.4,
+		"flag": "https://fakeimg.pl/500x300/cc6600",
+		"id": 120,
+		"land_area": 676578,
+		"name": "Myanmar",
+		"population": 54339766
+	},
+	{
+		"capital": "Windhoek",
+		"currency": "Namibian dollar",
+		"density": 3.1,
+		"flag": "https://fakeimg.pl/500x300/cc6633",
+		"id": 121,
+		"land_area": 823290,
+		"name": "Namibia",
+		"population": 2533794
+	},
+	{
+		"capital": "Yaren",
+		"currency": "Australian dollar",
+		"density": 541.4,
+		"flag": "https://fakeimg.pl/500x300/cc6666",
+		"id": 122,
+		"land_area": 21,
+		"name": "Nauru",
+		"population": 11359
+	},
+	{
+		"capital": "Kathmandu",
+		"currency": "Nepalese rupee",
+		"density": 198.5,
+		"flag": "https://fakeimg.pl/500x300/cc6699",
+		"id": 123,
+		"land_area": 147516,
+		"name": "Nepal",
+		"population": 29304998
+	},
+	{
+		"capital": "Amsterdam",
+		"currency": "Euro",
+		"density": 411.6,
+		"flag": "https://fakeimg.pl/500x300/cc66cc",
+		"id": 124,
+		"land_area": 41543,
+		"name": "Netherlands",
+		"population": 17097130
+	},
+	{
+		"capital": "Wellington",
+		"currency": "New Zealand dollar",
+		"density": 18.7,
+		"flag": "https://fakeimg.pl/500x300/cc66ff",
+		"id": 125,
+		"land_area": 267710,
+		"name": "New Zealand",
+		"population": 5009534
+	},
+	{
+		"capital": "Managua",
+		"currency": "Nicaraguan córdoba",
+		"density": 49.5,
+		"flag": "https://fakeimg.pl/500x300/cc9900",
+		"id": 127,
+		"land_area": 130373,
+		"name": "Nicaragua",
+		"population": 6465513
+	},
+	{
+		"capital": "Niamey",
+		"currency": "West African CFA franc",
+		"density": 19.1,
+		"flag": "https://fakeimg.pl/500x300/cc9933",
+		"id": 128,
+		"land_area": 1267000,
+		"name": "Niger",
+		"population": 24206644
+	},
+	{
+		"capital": "Abuja",
+		"currency": "Nigerian naira",
+		"density": 217.4,
+		"flag": "https://fakeimg.pl/500x300/cc9966",
+		"id": 129,
+		"land_area": 923768,
+		"name": "Nigeria",
+		"population": 200962417
+	},
+	{
+		"capital": "Pyongyang",
+		"currency": "North Korean won",
+		"density": 212.5,
+		"flag": "https://fakeimg.pl/500x300/cc9999",
+		"id": 130,
+		"land_area": 120538,
+		"name": "North Korea",
+		"population": 25610672
+	},
+	{
+		"capital": "Skopje",
+		"currency": "Macedonian denar",
+		"density": 80.9,
+		"flag": "https://fakeimg.pl/500x300/cc99cc",
+		"id": 131,
+		"land_area": 25713,
+		"name": "North Macedonia",
+		"population": 2077132
+	},
+	{
+		"capital": "Oslo",
+		"currency": "Norwegian krone",
+		"density": 14.7,
+		"flag": "https://fakeimg.pl/500x300/cc99ff",
+		"id": 132,
+		"land_area": 365268,
+		"name": "Norway",
+		"population": 5378857
+	},
+	{
+		"capital": "Muscat",
+		"currency": "Omani rial",
+		"density": 15.6,
+		"flag": "https://fakeimg.pl/500x300/cccc00",
+		"id": 133,
+		"land_area": 309500,
+		"name": "Oman",
+		"population": 4829483
+	},
+	{
+		"capital": "Islamabad",
+		"currency": "Pakistani rupee",
+		"density": 245.7,
+		"flag": "https://fakeimg.pl/500x300/cccc33",
+		"id": 134,
+		"land_area": 881913,
+		"name": "Pakistan",
+		"population": 216565318
+	},
+	{
+		"capital": "Ngerulmud",
+		"currency": "United States dollar",
+		"density": 39,
+		"flag": "https://fakeimg.pl/500x300/cccc66",
+		"id": 135,
+		"land_area": 459,
+		"name": "Palau",
+		"population": 17907
+	},
+	{
+		"capital": "Ramallah",
+		"currency": "Israeli new shekel",
+		"density": 839.9,
+		"flag": "https://fakeimg.pl/500x300/cccc99",
+		"id": 136,
+		"land_area": 6020,
+		"name": "Palestine State",
+		"population": 5052776
+	},
+	{
+		"capital": "Panama City",
+		"currency": "Panamanian balboa, United States dollar",
+		"density": 57.2,
+		"flag": "https://fakeimg.pl/500x300/cccccc",
+		"id": 137,
+		"land_area": 74177,
+		"name": "Panama",
+		"population": 4246439
+	},
+	{
+		"capital": "Port Moresby",
+		"currency": "Papua New Guinean kina",
+		"density": 19,
+		"flag": "https://fakeimg.pl/500x300/cc0000",
+		"id": 138,
+		"land_area": 462840,
+		"name": "Papua New Guinea",
+		"population": 8776109
+	},
+	{
+		"capital": "Asunción",
+		"currency": "Paraguayan guarani",
+		"density": 17.5,
+		"flag": "https://fakeimg.pl/500x300/cc0033",
+		"id": 139,
+		"land_area": 406752,
+		"name": "Paraguay",
+		"population": 7132538
+	},
+	{
+		"capital": "Lima",
+		"currency": "Sol",
+		"density": 25.3,
+		"flag": "https://fakeimg.pl/500x300/cc0066",
+		"id": 140,
+		"land_area": 1285216,
+		"name": "Peru",
+		"population": 32510453
+	},
+	{
+		"capital": "Manila",
+		"currency": "Philippine peso",
+		"density": 360.4,
+		"flag": "https://fakeimg.pl/500x300/cc0099",
+		"id": 141,
+		"land_area": 300000,
+		"name": "Philippines",
+		"population": 108116615
+	},
+	{
+		"capital": "Warsaw",
+		"currency": "Polish złoty",
+		"density": 121.4,
+		"flag": "https://fakeimg.pl/500x300/cc00cc",
+		"id": 142,
+		"land_area": 312696,
+		"name": "Poland",
+		"population": 37972812
+	},
+	{
+		"capital": "Lisbon",
+		"currency": "Euro",
+		"density": 111.5,
+		"flag": "https://fakeimg.pl/500x300/cc00ff",
+		"id": 143,
+		"land_area": 92212,
+		"name": "Portugal",
+		"population": 10283822
+	},
+	{
+		"capital": "Doha",
+		"currency": "Qatari riyal",
+		"density": 239.8,
+		"flag": "https://fakeimg.pl/500x300/cc3300",
+		"id": 144,
+		"land_area": 11586,
+		"name": "Qatar",
+		"population": 2781677
+	},
+	{
+		"capital": "Bucharest",
+		"currency": "Romanian leu",
+		"density": 81.3,
+		"flag": "https://fakeimg.pl/500x300/cc3333",
+		"id": 145,
+		"land_area": 238397,
+		"name": "Romania",
+		"population": 19405156
+	},
+	{
+		"capital": "Moscow",
+		"currency": "Russian ruble",
+		"density": 8.4,
+		"flag": "https://fakeimg.pl/500x300/cc3366",
+		"id": 146,
+		"land_area": 17098242,
+		"name": "Russia",
+		"population": 143895551
+	},
+	{
+		"capital": "Kigali",
+		"currency": "Rwandan franc",
+		"density": 480.3,
+		"flag": "https://fakeimg.pl/500x300/cc3399",
+		"id": 147,
+		"land_area": 26338,
+		"name": "Rwanda",
+		"population": 12663116
+	},
+	{
+		"capital": "Basseterre",
+		"currency": "East Caribbean dollar",
+		"density": 200.6,
+		"flag": "https://fakeimg.pl/500x300/cc33cc",
+		"id": 148,
+		"land_area": 261,
+		"name": "Saint Kitts and Nevis",
+		"population": 52441
+	},
+	{
+		"capital": "Castries",
+		"currency": "East Caribbean dollar",
+		"density": 294.5,
+		"flag": "https://fakeimg.pl/500x300/cc33ff",
+		"id": 149,
+		"land_area": 617,
+		"name": "Saint Lucia",
+		"population": 181889
+	},
+	{
+		"capital": "Kingstown",
+		"currency": "East Caribbean dollar",
+		"density": 284.4,
+		"flag": "https://fakeimg.pl/500x300/cc6600",
+		"id": 150,
+		"land_area": 389,
+		"name": "Saint Vincent and the Grenadines",
+		"population": 110589
+	},
+	{
+		"capital": "Apia",
+		"currency": "Samoan tālā",
+		"density": 69.3,
+		"flag": "https://fakeimg.pl/500x300/cc6633",
+		"id": 151,
+		"land_area": 2831,
+		"name": "Samoa",
+		"population": 196130
+	},
+	{
+		"capital": "City of San Marino",
+		"currency": "Euro",
+		"density": 554.6,
+		"flag": "https://fakeimg.pl/500x300/cc6666",
+		"id": 152,
+		"land_area": 61,
+		"name": "San Marino",
+		"population": 33860
+	},
+	{
+		"capital": "Sao Tome",
+		"currency": "Sao Tome and Principe dobra",
+		"density": 209.6,
+		"flag": "https://fakeimg.pl/500x300/cc6699",
+		"id": 153,
+		"land_area": 964,
+		"name": "Sao Tome and Principe",
+		"population": 201784
+	},
+	{
+		"capital": "Riyadh",
+		"currency": "Saudi riyal",
+		"density": 16.2,
+		"flag": "https://fakeimg.pl/500x300/cc66cc",
+		"id": 154,
+		"land_area": 2149690,
+		"name": "Saudi Arabia",
+		"population": 34813871
+	},
+	{
+		"capital": "Dakar",
+		"currency": "West African CFA franc",
+		"density": 82.8,
+		"flag": "https://fakeimg.pl/500x300/cc66ff",
+		"id": 155,
+		"land_area": 196722,
+		"name": "Senegal",
+		"population": 16296364
+	},
+	{
+		"capital": "Belgrade",
+		"currency": "Serbian dinar",
+		"density": 89.1,
+		"flag": "https://fakeimg.pl/500x300/cc9900",
+		"id": 156,
+		"land_area": 77474,
+		"name": "Serbia",
+		"population": 6908224
+	},
+	{
+		"capital": "Victoria",
+		"currency": "Seychellois rupee",
+		"density": 214.4,
+		"flag": "https://fakeimg.pl/500x300/cc9933",
+		"id": 157,
+		"land_area": 459,
+		"name": "Seychelles",
+		"population": 98340
+	},
+	{
+		"capital": "Freetown",
+		"currency": "Sierra Leonean leone",
+		"density": 112.9,
+		"flag": "https://fakeimg.pl/500x300/cc9966",
+		"id": 158,
+		"land_area": 71740,
+		"name": "Sierra Leone",
+		"population": 8102142
+	},
+	{
+		"capital": "Singapore",
+		"currency": "Singapore dollar",
+		"density": 7877.1,
+		"flag": "https://fakeimg.pl/500x300/cc9999",
+		"id": 159,
+		"land_area": 726,
+		"name": "Singapore",
+		"population": 5685807
+	},
+	{
+		"capital": "Bratislava",
+		"currency": "Euro",
+		"density": 113.5,
+		"flag": "https://fakeimg.pl/500x300/cccc00",
+		"id": 160,
+		"land_area": 48088,
+		"name": "Slovakia",
+		"population": 5459642
+	},
+	{
+		"capital": "Ljubljana",
+		"currency": "Euro",
+		"density": 103.5,
+		"flag": "https://fakeimg.pl/500x300/cccc33",
+		"id": 161,
+		"land_area": 20273,
+		"name": "Slovenia",
+		"population": 2100126
+	},
+	{
+		"capital": "Honiara",
+		"currency": "Solomon Islands dollar",
+		"density": 24.6,
+		"flag": "https://fakeimg.pl/500x300/cccc66",
+		"id": 162,
+		"land_area": 28370,
+		"name": "Solomon Islands",
+		"population": 699345
+	},
+	{
+		"capital": "Mogadishu",
+		"currency": "Somali shilling",
+		"density": 24.9,
+		"flag": "https://fakeimg.pl/500x300/cccc99",
+		"id": 163,
+		"land_area": 637657,
+		"name": "Somalia",
+		"population": 15893222
+	},
+	{
+		"capital": "Pretoria, Bloemfontein, Cape Town",
+		"currency": "South African rand",
+		"density": 48.8,
+		"flag": "https://fakeimg.pl/500x300/cccccc",
+		"id": 164,
+		"land_area": 1214470,
+		"name": "South Africa",
+		"population": 59308690
+	},
+	{
+		"capital": "Seoul",
+		"currency": "South Korean won",
+		"density": 516.6,
+		"flag": "https://fakeimg.pl/500x300/ccff00",
+		"id": 165,
+		"land_area": 100210,
+		"name": "South Korea",
+		"population": 51780579
+	},
+	{
+		"capital": "Juba",
+		"currency": "South Sudanese pound",
+		"density": 17.2,
+		"flag": "https://fakeimg.pl/500x300/ccff33",
+		"id": 166,
+		"land_area": 644329,
+		"name": "South Sudan",
+		"population": 11062113
+	},
+	{
+		"capital": "Madrid",
+		"currency": "Euro",
+		"density": 92.4,
+		"flag": "https://fakeimg.pl/500x300/ccff66",
+		"id": 167,
+		"land_area": 505990,
+		"name": "Spain",
+		"population": 46723749
+	},
+	{
+		"capital": "Colombo, Sri Jayawardenepura Kotte",
+		"currency": "Sri Lankan rupee",
+		"density": 357.4,
+		"flag": "https://fakeimg.pl/500x300/ccff99",
+		"id": 168,
+		"land_area": 62710,
+		"name": "Sri Lanka",
+		"population": 22409381
+	},
+	{
+		"capital": "Khartoum",
+		"currency": "Sudanese pound",
+		"density": 23.8,
+		"flag": "https://fakeimg.pl/500x300/ccffcc",
+		"id": 169,
+		"land_area": 1839542,
+		"name": "Sudan",
+		"population": 43849269
+	},
+	{
+		"capital": "Paramaribo",
+		"currency": "Surinamese dollar",
+		"density": 3.6,
+		"flag": "https://fakeimg.pl/500x300/ff0000",
+		"id": 170,
+		"land_area": 156000,
+		"name": "Suriname",
+		"population": 568301
+	},
+	{
+		"capital": "Stockholm",
+		"currency": "Swedish krona",
+		"density": 22.5,
+		"flag": "https://fakeimg.pl/500x300/ff0033",
+		"id": 171,
+		"land_area": 450295,
+		"name": "Sweden",
+		"population": 10120242
+	},
+	{
+		"capital": "Bern",
+		"currency": "Swiss franc",
+		"density": 208.1,
+		"flag": "https://fakeimg.pl/500x300/ff0066",
+		"id": 172,
+		"land_area": 41284,
+		"name": "Switzerland",
+		"population": 8591365
+	},
+	{
+		"capital": "Damascus",
+		"currency": "Syrian pound",
+		"density": 91.3,
+		"flag": "https://fakeimg.pl/500x300/ff0099",
+		"id": 173,
+		"land_area": 185180,
+		"name": "Syria",
+		"population": 16906283
+	},
+	{
+		"capital": "Taipei",
+		"currency": "New Taiwan dollar",
+		"density": 656.9,
+		"flag": "https://fakeimg.pl/500x300/ff00cc",
+		"id": 174,
+		"land_area": 36193,
+		"name": "Taiwan",
+		"population": 23780452
+	},
+	{
+		"capital": "Dushanbe",
+		"currency": "Tajikistani somoni",
+		"density": 63.8,
+		"flag": "https://fakeimg.pl/500x300/ff00ff",
+		"id": 175,
+		"land_area": 143100,
+		"name": "Tajikistan",
+		"population": 9127000
+	},
+	{
+		"capital": "Dodoma",
+		"currency": "Tanzanian shilling",
+		"density": 63.2,
+		"flag": "https://fakeimg.pl/500x300/ff3300",
+		"id": 176,
+		"land_area": 945087,
+		"name": "Tanzania",
+		"population": 59734218
+	},
+	{
+		"capital": "Bangkok",
+		"currency": "Thai baht",
+		"density": 136.1,
+		"flag": "https://fakeimg.pl/500x300/ff3333",
+		"id": 177,
+		"land_area": 513120,
+		"name": "Thailand",
+		"population": 69830779
+	},
+	{
+		"capital": "Dili",
+		"currency": "United States dollar",
+		"density": 88.7,
+		"flag": "https://fakeimg.pl/500x300/ff3366",
+		"id": 178,
+		"land_area": 14874,
+		"name": "Timor-Leste",
+		"population": 1318445
+	},
+	{
+		"capital": "Lomé",
+		"currency": "West African CFA franc",
+		"density": 146,
+		"flag": "https://fakeimg.pl/500x300/ff3399",
+		"id": 179,
+		"land_area": 56785,
+		"name": "Togo",
+		"population": 8278724
+	},
+	{
+		"capital": "Nuku'alofa",
+		"currency": "Tongan paʻanga",
+		"density": 146.8,
+		"flag": "https://fakeimg.pl/500x300/ff33cc",
+		"id": 180,
+		"land_area": 720,
+		"name": "Tonga",
+		"population": 105695
+	},
+	{
+		"capital": "Port of Spain",
+		"currency": "Trinidad and Tobago dollar",
+		"density": 272.3,
+		"flag": "https://fakeimg.pl/500x300/ff33ff",
+		"id": 181,
+		"land_area": 5130,
+		"name": "Trinidad and Tobago",
+		"population": 1394973
+	},
+	{
+		"capital": "Tunis",
+		"currency": "Tunisian dinar",
+		"density": 75.9,
+		"flag": "https://fakeimg.pl/500x300/ff6600",
+		"id": 182,
+		"land_area": 155360,
+		"name": "Tunisia",
+		"population": 11783112
+	},
+	{
+		"capital": "Ankara",
+		"currency": "Turkish lira",
+		"density": 109.6,
+		"flag": "https://fakeimg.pl/500x300/ff6633",
+		"id": 183,
+		"land_area": 769632,
+		"name": "Turkey",
+		"population": 84274063
+	},
+	{
+		"capital": "Ashgabat",
+		"currency": "Turkmenistan manat",
+		"density": 12.8,
+		"flag": "https://fakeimg.pl/500x300/ff6666",
+		"id": 184,
+		"land_area": 469930,
+		"name": "Turkmenistan",
+		"population": 6031200
+	},
+	{
+		"capital": "Funafuti",
+		"currency": "Tuvaluan dollar",
+		"density": 442.2,
+		"flag": "https://fakeimg.pl/500x300/ff6699",
+		"id": 185,
+		"land_area": 26,
+		"name": "Tuvalu",
+		"population": 11508
+	},
+	{
+		"capital": "Kampala",
+		"currency": "Ugandan shilling",
+		"density": 189.9,
+		"flag": "https://fakeimg.pl/500x300/ff66cc",
+		"id": 186,
+		"land_area": 241038,
+		"name": "Uganda",
+		"population": 45741007
+	},
+	{
+		"capital": "Kyiv",
+		"currency": "Ukrainian hryvnia",
+		"density": 69.4,
+		"flag": "https://fakeimg.pl/500x300/ff9900",
+		"id": 188,
+		"land_area": 603500,
+		"name": "Ukraine",
+		"population": 41858147
+	},
+	{
+		"capital": "Abu Dhabi",
+		"currency": "United Arab Emirates dirham",
+		"density": 118,
+		"flag": "https://fakeimg.pl/500x300/ff9933",
+		"id": 189,
+		"land_area": 83600,
+		"name": "United Arab Emirates",
+		"population": 9890402
+	},
+	{
+		"capital": "London",
+		"currency": "Pound sterling",
+		"density": 277.2,
+		"flag": "https://fakeimg.pl/500x300/ff9966",
+		"id": 190,
+		"land_area": 243610,
+		"name": "United Kingdom",
+		"population": 67530172
+	},
+	{
+		"capital": "Washington, D.C.",
+		"currency": "United States dollar",
+		"density": 35.1,
+		"flag": "https://fakeimg.pl/500x300/ff9999",
+		"id": 191,
+		"land_area": 9833517,
+		"name": "United States of America",
+		"population": 334805269
+	},
+	{
+		"capital": "Montevideo",
+		"currency": "Uruguayan peso",
+		"density": 19.7,
+		"flag": "https://fakeimg.pl/500x300/ff99cc",
+		"id": 192,
+		"land_area": 175020,
+		"name": "Uruguay",
+		"population": 3518552
+	},
+	{
+		"capital": "Tashkent",
+		"currency": "Uzbekistani som",
+		"density": 75.9,
+		"flag": "https://fakeimg.pl/500x300/ff99ff",
+		"id": 193,
+		"land_area": 448978,
+		"name": "Uzbekistan",
+		"population": 34067739
+	},
+	{
+		"capital": "Port Vila",
+		"currency": "Vanuatu vatu",
+		"density": 25.7,
+		"flag": "https://fakeimg.pl/500x300/ffcc00",
+		"id": 194,
+		"land_area": 12189,
+		"name": "Vanuatu",
+		"population": 313409
+	},
+	{
+		"capital": "Caracas",
+		"currency": "Venezuelan bolívar",
+		"density": 32,
+		"flag": "https://fakeimg.pl/500x300/ffcc33",
+		"id": 195,
+		"land_area": 882050,
+		"name": "Venezuela",
+		"population": 28223584
+	},
+	{
+		"capital": "Hanoi",
+		"currency": "Vietnamese đồng",
+		"density": 296.2,
+		"flag": "https://fakeimg.pl/500x300/ffcc66",
+		"id": 196,
+		"land_area": 331210,
+		"name": "Vietnam",
+		"population": 98156000
+	},
+	{
+		"capital": "Sana'a",
+		"currency": "Yemeni rial",
+		"density": 56.5,
+		"flag": "https://fakeimg.pl/500x300/ffcc99",
+		"id": 197,
+		"land_area": 527968,
+		"name": "Yemen",
+		"population": 29825968
+	},
+	{
+		"capital": "Lusaka",
+		"currency": "Zambian kwacha",
+		"density": 24.4,
+		"flag": "https://fakeimg.pl/500x300/ffcccc",
+		"id": 198,
+		"land_area": 752618,
+		"name": "Zambia",
+		"population": 18383955
+	},
+	{
+		"capital": "Harare",
+		"currency": "Zimbabwean dollar",
+		"density": 38,
+		"flag": "https://fakeimg.pl/500x300/ffffff",
+		"id": 199,
+		"land_area": 390757,
+		"name": "Zimbabwe",
+		"population": 14862924
+	}
+]

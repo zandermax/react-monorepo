@@ -1,0 +1,25 @@
+.no-players-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+.player-name-container {
+	display: grid;
+	/* Name, trash icon, color picker */
+	grid-template-columns: auto auto 1fr;
+
+	& .player-color-picker {
+		justify-self: end;
+	}
+}
+
+.remove-favorite-icon {
+	margin-inline-end: 1ch;
+
+	&:hover {
+		cursor: pointer;
+	}
+}

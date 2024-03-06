@@ -1,0 +1,24 @@
+{
+	"$schema": "../../node_modules/nx/schemas/project-schema.json",
+	"name": "mock-api",
+	"projectType": "application",
+	"sourceRoot": "apps/mock-api/src",
+	"tags": [],
+	"targets": {
+		"serve": {
+			"configurations": {
+				"development": {
+					"buildTarget": "mock-api:build:development"
+				},
+				"production": {
+					"buildTarget": "mock-api:build:production"
+				}
+			},
+			"defaultConfiguration": "development",
+			"executor": "@nx/js:node",
+			"options": {
+				"buildTarget": "mock-api:build"
+			}
+		}
+	}
+}

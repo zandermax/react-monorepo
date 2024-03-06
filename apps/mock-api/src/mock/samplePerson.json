@@ -1,0 +1,66 @@
+{
+	"info": {
+		"page": 1,
+		"results": 1,
+		"seed": "1f94631ef1fb9145",
+		"version": "1.4"
+	},
+	"results": [
+		{
+			"cell": "06-45-09-10-75",
+			"dob": {
+				"age": 44,
+				"date": "1979-04-12T06:38:50.488Z"
+			},
+			"email": "samuel.sanchez@example.com",
+			"gender": "male",
+			"id": {
+				"name": "INSEE",
+				"value": "1790331044935 19"
+			},
+			"location": {
+				"city": "Nancy",
+				"coordinates": {
+					"latitude": "-17.7130",
+					"longitude": "-122.9806"
+				},
+				"country": "France",
+				"postcode": 68153,
+				"state": "Aube",
+				"street": {
+					"name": "Place du 8 Février 1962",
+					"number": 4175
+				},
+				"timezone": {
+					"description": "Western Europe Time, London, Lisbon, Casablanca",
+					"offset": "0:00"
+				}
+			},
+			"login": {
+				"md5": "bdf23482e028d7f150cc7f85b11292b0",
+				"password": "gonzo1",
+				"salt": "gbpWvLJp",
+				"sha1": "cf82037bfe649916a8593e1b45edccba9b6d4747",
+				"sha256": "4cf09d206350205b66afa6cadcff2287042336f64b053665a03dcf3c8126c11e",
+				"username": "blacksnake328",
+				"uuid": "df66491a-103c-4599-862d-49ef0cda0499"
+			},
+			"name": {
+				"first": "Samuel",
+				"last": "Sanchez",
+				"title": "Mr"
+			},
+			"nat": "FR",
+			"phone": "01-78-60-35-56",
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/95.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+			},
+			"registered": {
+				"age": 3,
+				"date": "2020-04-30T14:25:33.098Z"
+			}
+		}
+	]
+}

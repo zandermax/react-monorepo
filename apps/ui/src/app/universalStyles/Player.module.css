@@ -1,0 +1,8 @@
+/* Avoids shifting buttons when previous button shows */
+.prev-button-placeholder {
+	min-width: 14ch;
+}
+
+.player-name {
+	padding-inline-end: 1em;
+}
