@@ -12,7 +12,11 @@
 	grid-template-columns: auto auto 1fr;
 
 	& .player-color-picker {
+		display: flex;
 		justify-self: end;
+		align-items: center;
+		column-gap: 1rem;
+
 	}
 }
 

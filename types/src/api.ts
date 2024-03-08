@@ -1,10 +1,10 @@
-export const LOCAL_PORT = 3333;
+export const MOCK_API_PORT = 3331;
 export const ALL_PLAYERS_ENDPOINT = '/api/v1/players';
 export enum Endpoint {
 	// Note: this API is no longer available for free, so we're using a local server instead.
 	// ALL_PLAYERS = 'https://www.balldontlie.io/api/v1/players',
 
-	ALL_PLAYERS = `http://localhost:${LOCAL_PORT}${ALL_PLAYERS_ENDPOINT}`,
+	ALL_PLAYERS = `http://localhost:${MOCK_API_PORT}${ALL_PLAYERS_ENDPOINT}`,
 }
 
 export type Params = {

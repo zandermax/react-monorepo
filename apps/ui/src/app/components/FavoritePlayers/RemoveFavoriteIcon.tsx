@@ -1,7 +1,7 @@
 import { DeleteFilled, DeleteOutlined } from '@ant-design/icons';
 import { Tooltip } from 'antd';
 import styles from './styles/FavoritePlayers.module.css';
-import { FavoritePlayerData } from '../../data/db';
+import type { FavoritePlayerData } from '@react-monorepo/types';
 
 type RemoveFavoriteIconProps = {
 	handleRemoveFavorite: (player: FavoritePlayerData) => void;

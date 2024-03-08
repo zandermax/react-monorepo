@@ -2,18 +2,22 @@ import express, { type Request } from 'express';
 import {
 	ALL_PLAYERS_ENDPOINT,
 	type Endpoint,
-	LOCAL_PORT,
+	MOCK_API_PORT,
 	type Params,
 	type Players,
 	DEFAULT_SEARCH_OPTIONS,
 } from '@react-monorepo/types';
 
 import mockedPlayers from './mock/players.json';
+import cors from 'cors';
 
 const app = express();
 
-const server = app.listen(LOCAL_PORT, () => {
-	console.log(`Listening at http://localhost:${LOCAL_PORT}`);
+// Enables all CORS requests for development purposes when running the server locally
+app.use(cors());
+
+const server = app.listen(MOCK_API_PORT, () => {
+	console.log(`Listening at http://localhost:${MOCK_API_PORT}`);
 });
 server.on('error', console.error);
 

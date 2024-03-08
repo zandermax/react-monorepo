@@ -1,6 +1,7 @@
 import { CollapseProps, Descriptions } from 'antd';
-import { DEFAULT_BACKGROUND_COLOR, FavoritePlayerData } from '../../data/db';
+import { DEFAULT_BACKGROUND_COLOR } from '../../data/db';
 import fontColorContrast from 'font-color-contrast';
+import type { FavoritePlayerData } from '@react-monorepo/types';
 
 export const getFontColorForPlayer = (player: FavoritePlayerData) => {
 	return fontColorContrast(player.backgroundColor ?? DEFAULT_BACKGROUND_COLOR);
@@ -16,9 +17,7 @@ export const getPlayerDisplay = ({
 }: PlayerDisplayProps): CollapseProps['items'] => [
 	{
 		key: player.id,
-		label: (
-			<span style={{ color: labelTextColor }}>{player.team.full_name}</span>
-		),
+		label: <span style={{ color: labelTextColor }}>{player.team_name}</span>,
 		children: (
 			<Descriptions
 				items={[
@@ -52,27 +51,27 @@ export const getPlayerDisplay = ({
 						key: 'team',
 						label: 'Team Name',
 
-						children: player.team.name,
+						children: player.team_name,
 					},
 					{
 						key: 'team_city',
 						label: 'Team City',
-						children: player.team.city,
+						children: player.city,
 					},
 					{
 						key: 'team_conference',
 						label: 'Team Conference',
 						children:
-							player.team.conference.trim().length > 0
-								? player.team.conference.trim()
+							player.conference.trim().length > 0
+								? player.conference.trim()
 								: '(N/A)',
 					},
 					{
 						key: 'team_division',
 						label: 'Team Division',
 						children:
-							player.team.division.trim().length > 0
-								? player.team.division.trim()
+							player.division.trim().length > 0
+								? player.division.trim()
 								: '(N/A)',
 					},
 				]}
