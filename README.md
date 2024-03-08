@@ -49,12 +49,13 @@ This is set up as a monorepo via NX, with these separate projects:
 
 ## Notes
 
-- Schema is not provided, used quicktype and modified according to missing types that I encountered.
-- Normally I would manually create the types based on the API docs, but this worked well enough to just show an MVP.
+- Schemas for the original API were not provided, so I used quicktype and modified the generated types according to missing types that I encountered.
+  - Normally I would manually create the types based on the API docs, but this worked well enough to just show an MVP.
+- GraphQL types were not generated, as this is not a trivial process and really just used to enhance the developer experience.
 
 ## Possible improvements
 
-- Generate types from the graphQL so that they do not need duplicated (not trivial to set up)
+- Generate types from the graphQL so that they do not need duplicated
 - Enable multiple users
   - Need a way to track users, probably by a login system
 - Poll the backend regularly
